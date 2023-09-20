@@ -15,7 +15,8 @@ BRIGHT_MAGENTA = "#B48DAC";
 BRIGHT_CYAN = "#8FBCBB";
 BRIGHT_WHITE = "#ECEEF4";
 FOREGROUND = "#D8DEE8";
-BACKGROUND = "#2E3340";
+// BACKGROUND = "#2E3340";
+BACKGROUND = "#252934";
 CURSOR = "rgba(216,222,232,1.0)";
 
 t.prefs_.set("color-palette-overrides", [
