@@ -1,4 +1,5 @@
-BLACK = "#3B4251";
+// BLACK = "#3B4251";
+BLACK = "#252934";
 RED = "#BF6069";
 GREEN = "#A3BE8B";
 YELLOW = "#EACB8A";
